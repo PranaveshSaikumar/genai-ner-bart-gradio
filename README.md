@@ -58,7 +58,8 @@ iface = gr.Interface(
 iface.launch()
 ```
 ### OUTPUT:
-![alt text](Image.png)
+![image](https://github.com/user-attachments/assets/c70f1d0f-6892-498b-9c7a-1ad26b82c5eb)
+
 
 ### RESULT:
 Successfully a prototype application for Named Entity Recognition (NER) by leveraging a fine-tuned BART model and deploying the application using the Gradio framework for user interaction and evaluation.
